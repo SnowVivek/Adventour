@@ -1,0 +1,24 @@
+{
+  "name": "adventour",
+  "version": "1.0.0",
+  "description": "A Website for suggesting Tourist Places to Users",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "keywords": [
+    "adventure",
+    "tours",
+    "travels"
+  ],
+  "author": "Bhushan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.18.2",
+    "express-session": "^1.17.3",
+    "mustache-express": "1.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "3.0.3"
+  }
+}
